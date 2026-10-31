@@ -4,6 +4,8 @@ Computer engineer in Brazil. I build the plumbing between AI agents and
 real-world systems: MCP servers for network gear, EDA tools and government
 APIs, and the hardware, networks and machines around them.
 
+**Contact:** [contato@thalisantunes.com.br](mailto:contato@thalisantunes.com.br) · [LinkedIn](https://www.linkedin.com/in/thalis-antunes/) · [thalisantunes.com.br](https://thalisantunes.com.br/)
+
 ## MCP servers
 
 | Repo | What it does |
@@ -14,6 +16,21 @@ APIs, and the hardware, networks and machines around them.
 | [mcp-mikrotik](https://github.com/thalisantunes/mcp-mikrotik) | MikroTik RouterOS 6/7. 100+ read tools, guarded writes, dead-man rollback so a bad change never locks you out. Verified on real PtP links. |
 | [mcp-omada](https://github.com/thalisantunes/mcp-omada) | TP-Link Omada SDN controllers. Read-only monitoring plus one guarded write, verified against a real OC200. |
 | [govbr-apis-mcp](https://github.com/thalisantunes/govbr-apis-mcp) | Spec-driven gateway that exposes Brazilian government APIs as a handful of generic tools instead of hundreds. |
+
+## Open source contributions
+
+Bugs I hit while using these projects, fixed upstream. Each logo links to the merged pull requests on GitHub.
+
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Akirodotdev&type=pullrequests"><img src="https://github.com/kirodotdev.png?size=80" width="40" height="40" alt="Kiro (AWS): 2 merged pull requests" title="Kiro (AWS): 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AAdyen&type=pullrequests"><img src="https://github.com/Adyen.png?size=80" width="40" height="40" alt="Adyen: 1 merged pull request" title="Adyen: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+user%3AVibra-Ingenn&type=pullrequests"><img src="https://github.com/Vibra-Ingenn.png?size=80" width="40" height="40" alt="Vibra Ingenn: 1 merged pull request" title="Vibra Ingenn: 1 merged pull request"></a>
+
+| Repository | Pull request |
+|---|---|
+| [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) (Kiro, by AWS) | [fix(i18n): translate the command palette action titles](https://github.com/kirodotdev/KiroCrew/pull/25760) |
+| | [fix(i18n): translate 18 English passthrough values in pt and es for Design Critique](https://github.com/kirodotdev/KiroCrew/pull/26065) |
+| [Adyen/agent-marketplace](https://github.com/Adyen/agent-marketplace) | [Read comma-separated subagent tool strings as separate tools](https://github.com/Adyen/agent-marketplace/pull/925) |
+| [Vibra-Ingenn/Janus](https://github.com/Vibra-Ingenn/Janus) | [Fix Linux support: by-value struct ABI, pinned llama.cpp b11146, stack-safe C buffers](https://github.com/Vibra-Ingenn/Janus/pull/2) |
 
 ## Claude Code tooling
 
