@@ -24,6 +24,7 @@ Bugs I hit while using these projects, fixed upstream. Each logo links to the me
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Akirodotdev&type=pullrequests"><img src="https://github.com/kirodotdev.png?size=80" width="40" height="40" alt="Kiro (AWS): 2 merged pull requests" title="Kiro (AWS): 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AAdyen&type=pullrequests"><img src="https://github.com/Adyen.png?size=80" width="40" height="40" alt="Adyen: 1 merged pull request" title="Adyen: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AOrcaSlicer&type=pullrequests"><img src="https://github.com/OrcaSlicer.png?size=80" width="40" height="40" alt="OrcaSlicer: 1 merged pull request" title="OrcaSlicer: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Aopenscad&type=pullrequests"><img src="https://github.com/openscad.png?size=80" width="40" height="40" alt="OpenSCAD: 1 merged pull request" title="OpenSCAD: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+user%3AVibra-Ingenn&type=pullrequests"><img src="https://github.com/Vibra-Ingenn.png?size=80" width="40" height="40" alt="Vibra Ingenn: 1 merged pull request" title="Vibra Ingenn: 1 merged pull request"></a>
 
 | Repository | Pull request |
@@ -32,6 +33,7 @@ Bugs I hit while using these projects, fixed upstream. Each logo links to the me
 | | [fix(i18n): translate 18 English passthrough values in pt and es for Design Critique](https://github.com/kirodotdev/KiroCrew/pull/26065) |
 | [Adyen/agent-marketplace](https://github.com/Adyen/agent-marketplace) | [Read comma-separated subagent tool strings as separate tools](https://github.com/Adyen/agent-marketplace/pull/925) |
 | [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | [Remove settings OrcaSlicer ignores from the Sovol process profiles](https://github.com/OrcaSlicer/OrcaSlicer/pull/17085) |
+| [openscad/openscad](https://github.com/openscad/openscad) | [Fix crash when an echo export is followed by another -o output](https://github.com/openscad/openscad/pull/7161) |
 | [Vibra-Ingenn/Janus](https://github.com/Vibra-Ingenn/Janus) | [Fix Linux support: by-value struct ABI, pinned llama.cpp b11146, stack-safe C buffers](https://github.com/Vibra-Ingenn/Janus/pull/2) |
 
 ## Claude Code tooling
