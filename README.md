@@ -19,22 +19,36 @@ APIs, and the hardware, networks and machines around them.
 
 ## Open source contributions
 
-Bugs I hit while using these projects, fixed upstream. Each logo links to the merged pull requests on GitHub.
+16 merged pull requests across 9 organizations: fixes, documentation, internationalization and printer profiles. Each logo links to the merged pull requests on GitHub.
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Akirodotdev&type=pullrequests"><img src="https://github.com/kirodotdev.png?size=80" width="40" height="40" alt="Kiro (AWS): 2 merged pull requests" title="Kiro (AWS): 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AAdyen&type=pullrequests"><img src="https://github.com/Adyen.png?size=80" width="40" height="40" alt="Adyen: 1 merged pull request" title="Adyen: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AOrcaSlicer&type=pullrequests"><img src="https://github.com/OrcaSlicer.png?size=80" width="40" height="40" alt="OrcaSlicer: 1 merged pull request" title="OrcaSlicer: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Akirodotdev&type=pullrequests"><img src="https://github.com/kirodotdev.png?size=80" width="40" height="40" alt="Kiro (AWS): 3 merged pull requests" title="Kiro (AWS): 3 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AAdyen&type=pullrequests"><img src="https://github.com/Adyen.png?size=80" width="40" height="40" alt="Adyen: 3 merged pull requests" title="Adyen: 3 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3AOrcaSlicer&type=pullrequests"><img src="https://github.com/OrcaSlicer.png?size=80" width="40" height="40" alt="OrcaSlicer: 3 merged pull requests" title="OrcaSlicer: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Aopenscad&type=pullrequests"><img src="https://github.com/openscad.png?size=80" width="40" height="40" alt="OpenSCAD: 1 merged pull request" title="OpenSCAD: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+user%3AVibra-Ingenn&type=pullrequests"><img src="https://github.com/Vibra-Ingenn.png?size=80" width="40" height="40" alt="Vibra Ingenn: 1 merged pull request" title="Vibra Ingenn: 1 merged pull request"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+user%3AVibra-Ingenn&type=pullrequests"><img src="https://github.com/Vibra-Ingenn.png?size=80" width="40" height="40" alt="Vibra Ingenn: 1 merged pull request" title="Vibra Ingenn: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Aamd&type=pullrequests"><img src="https://github.com/amd.png?size=80" width="40" height="40" alt="AMD: 2 merged pull requests" title="AMD: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Aequinor&type=pullrequests"><img src="https://github.com/equinor.png?size=80" width="40" height="40" alt="Equinor: 1 merged pull request" title="Equinor: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Atelekom&type=pullrequests"><img src="https://github.com/telekom.png?size=80" width="40" height="40" alt="Deutsche Telekom: 1 merged pull request" title="Deutsche Telekom: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Athalisantunes+org%3Azenvia&type=pullrequests"><img src="https://github.com/zenvia.png?size=80" width="40" height="40" alt="Zenvia: 1 merged pull request" title="Zenvia: 1 merged pull request"></a>
 
 | Repository | Pull request |
 |---|---|
 | [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) (Kiro, by AWS) | [fix(i18n): translate the command palette action titles](https://github.com/kirodotdev/KiroCrew/pull/25760) |
 | | [fix(i18n): translate 18 English passthrough values in pt and es for Design Critique](https://github.com/kirodotdev/KiroCrew/pull/26065) |
+| | [fix(i18n): translate 324 English passthrough values in pt and es for Ops Mission Control](https://github.com/kirodotdev/KiroCrew/pull/26064) |
 | [Adyen/agent-marketplace](https://github.com/Adyen/agent-marketplace) | [Read comma-separated subagent tool strings as separate tools](https://github.com/Adyen/agent-marketplace/pull/925) |
+| | [test: isolate HOME for the internal/marketplace and internal/tui tests](https://github.com/Adyen/agent-marketplace/pull/995) |
+| | [Name the catalog tool in hook.matcher-untranslatable decode refusals](https://github.com/Adyen/agent-marketplace/pull/996) |
 | [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | [Remove settings OrcaSlicer ignores from the Sovol process profiles](https://github.com/OrcaSlicer/OrcaSlicer/pull/17085) |
+| | [Sovol SV08: point the 0.4 and 0.8 nozzle printers at process profiles that exist](https://github.com/OrcaSlicer/OrcaSlicer/pull/17106) |
+| | [Sovol SV08 MAX: add 0.2 and 1.0 nozzle variants](https://github.com/OrcaSlicer/OrcaSlicer/pull/17108) |
 | [openscad/openscad](https://github.com/openscad/openscad) | [Fix crash when an echo export is followed by another -o output](https://github.com/openscad/openscad/pull/7161) |
 | [Vibra-Ingenn/Janus](https://github.com/Vibra-Ingenn/Janus) | [Fix Linux support: by-value struct ABI, pinned llama.cpp b11146, stack-safe C buffers](https://github.com/Vibra-Ingenn/Janus/pull/2) |
+| [amd/gaia](https://github.com/amd/gaia) | [docs(quickstart): name the extras the developer guides need](https://github.com/amd/gaia/pull/6225) |
+| | [docs(plans): point the email-triage acceptance bar at the flagship baseline](https://github.com/amd/gaia/pull/6243) |
+| [equinor/pyetp](https://github.com/equinor/pyetp) | [DOC: Update CONTRIBUTING setup and check commands to match CI](https://github.com/equinor/pyetp/pull/102) |
+| [telekom/gateway-jumper](https://github.com/telekom/gateway-jumper) | [docs: point license badge to LICENSES/Apache-2.0.txt](https://github.com/telekom/gateway-jumper/pull/199) |
+| [zenvia/zenvia-openapi-spec](https://github.com/zenvia/zenvia-openapi-spec) | [docs: fix broken Zenvia platform links in Telegram tag](https://github.com/zenvia/zenvia-openapi-spec/pull/543) |
 
 ## Claude Code tooling
 
